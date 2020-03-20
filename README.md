@@ -4,7 +4,7 @@ Pulling data from: https://www.kaggle.com/sudalairajkumar/novel-corona-virus-201
 
 ---
 
-Inputs: province, country, date
+Inputs: province, country, date (from 01/22/2020 onwards)
 
 Outputs: Number of Confirmed, Recovered, Deaths from the COVID-19
 
